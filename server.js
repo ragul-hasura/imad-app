@@ -30,7 +30,8 @@ var articles= {
         </p> 
     `},
     
-'article-Three': { title: 'article-three ragul sakthivel',
+'article-Three': {
+    title: 'article-three ragul sakthivel',
     heading:'article-one',
     date: 'sep 6, 2017',
     content: `  <p>
