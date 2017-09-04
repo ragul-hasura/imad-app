@@ -10,7 +10,7 @@ var articles= {
  'article-One': {
     title: 'article-one ragul sakthivel',
     heading:'article-one',
-    date: 'sep 4, 2017',
+    date: 'sep 2, 2017',
     content: `  <p>
              this is the content of my first html article this is the content of my first html article this is the content of my first html article this is the content of my first html
         </p>
@@ -24,7 +24,7 @@ var articles= {
 
 'article-Two': { title: 'article-two ragul sakthivel',
     heading:'article-two',
-    date: 'sep 5, 2017',
+    date: 'sep 2, 2017',
     content: `  <p>
              this is the content of my seond html article rst html
         </p> 
