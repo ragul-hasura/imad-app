@@ -22,22 +22,26 @@ var articles= {
         </p>  `
 },
 
-'article-Two': { title: 'article-two ragul sakthivel',
+'article-Two': { 
+    title: 'article-two ragul sakthivel',
     heading:'article-two',
     date: 'sep 2, 2017',
     content: `  <p>
-             this is the content of my seond html article rst html
-        </p> 
-    `},
+             this is the content of my seond html article first html
+        </p> `
     
+},
+    
+
 'article-Three': {
     title: 'article-three ragul sakthivel',
     heading:'article-one',
     date: 'sep 6, 2017',
     content: `  <p>
              this is the content of my third html 
-        </p> 
-    `}
+        </p>  `
+    
+}
 };
 
 function createTemplate (data) {
@@ -71,8 +75,8 @@ var  htmlTemplate = `<html>
         </div>
    </div>
  </body>   
-</html>
-`;
+</html>`;
+
 return htmlTemplate;
 }
 
